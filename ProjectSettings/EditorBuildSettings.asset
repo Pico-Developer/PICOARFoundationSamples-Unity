@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/MenuLoader.unity
+    guid: 6688ff74f56714cfeb7c919bcdbfe269
+  - enabled: 1
+    path: Assets/Scenes/PICO/PICOMenu.unity
+    guid: 3c263da210d3d42048adc60995530419
+  - enabled: 1
+    path: Assets/Scenes/PICO/PICOAnchors.unity
+    guid: 6cf818abdcb7e354e8811c7b03bf8ccb
+  - enabled: 1
+    path: Assets/Scenes/PICO/PICOBodyTrackingCubes.unity
+    guid: a91d0dd90d9beae418ab6c4aed728ee6
+  - enabled: 1
+    path: Assets/Scenes/PICO/PICOCameraEffectDemo.unity
+    guid: acf366a3277c46b4f9c561a5cf9199ae
+  - enabled: 1
+    path: Assets/Scenes/PICO/PICOFaceBlendShapes.unity
+    guid: 25d8fd70691a8974b825e6e8ea449641
+  - enabled: 1
+    path: Assets/Scenes/PICO/PICOHumanBodyTracking3D.unity
+    guid: 3a896aefd7c96724486fce4a37fc0707
+  - enabled: 1
+    path: Assets/Scenes/PICO/PICOMeshes.unity
+    guid: 3f9cddcfc57ccea4daaf2117a7aed186
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 004a15cdff0ff0a4e937eb4a8b99fa27,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c52d3bb36b4c86f47af54ab9c7a02589,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f8ce26fe3bc69499b9be4b2378e97a94,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 98c79e8cc22674a89a95a3a90e2b70cb,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 302e9f36808117f4184b07b05ca5bb47,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e2f869774b12e400996eb546603602e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2d2dec64879445247bb34603b4469c6c,
+      type: 2}
