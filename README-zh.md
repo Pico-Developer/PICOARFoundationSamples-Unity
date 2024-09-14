@@ -1,6 +1,9 @@
 # PICO Unity ARFoundation示例
 PICO Unity ARFoundation Samples 是一组示例项目，旨在帮助开发者基于PICO Unity Integration SDK理解和使用Unity的AR Foundation框架。PICO Unity ARFoundation示例是根据官方Samples的样式提供了一组PICO Unity Integration SDK支持的功能场景，展示了开发者可以参考的一系列应用案例。这个示例场景主要包括：锚点、meshing、camera、camera特效、人体追踪、面部追踪。开发者可以基于这些场景快速体验PICO Unity Integration SDK提供的对应能力。
 
+## ARFoundatio 版本
+本工程是基于AR Foundation 5.1版本进行适配的。下载链接：https://github.com/Unity-Technologies/arfoundation-samples/tree/5.1
+
 ## 开发环境
 
 - PICO Unity Integration SDK Version: 3.0.4
