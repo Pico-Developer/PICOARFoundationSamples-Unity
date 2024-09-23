@@ -1,7 +1,7 @@
-# PICO Unity ARFoundation Samples
-The PICO Unity ARFoundation Samples is a collection of sample scenes designed to help developers understand and use Unity's AR Foundation framework based on the PICO Unity Integration SDK. These samples follow the style of the official AR Foundation Samples and provide a set of functional scenarios supported by the PICO Unity Integration SDK, showcasing a variety of use cases developers can reference. The sample scenes mainly include features such as anchors, meshing, camera, camera effects, body tracking, face tracking. Developers can quickly experience the capabilities provided by the PICO Unity Integration SDK through these sample scenarios.
+# PICO Unity AR Foundation Samples
+The PICO Unity AR Foundation Samples are a collection of sample scenes designed to help developers understand and use Unity's AR Foundation framework with the PICO Unity Integration SDK. These samples follow the style of Unity's official AR Foundation Samples and provide a set of functional scenarios supported by the PICO Unity Integration SDK, showcasing a variety of use cases developers can reference. The sample scenes mainly include features such as anchors, meshing, camera, camera effects, body tracking, face tracking. Developers can quickly experience the capabilities provided by the PICO Unity Integration SDK through these sample scenarios.
 
-# ARFoundation Version
+# AR Foundation Version
 This project is adapted based on ARFoundation 5.1 version. Download link: https://github.com/Unity-Technologies/arfoundation-samples/tree/5.1
 
 # Development Environment
@@ -18,5 +18,5 @@ adb install "filepath\filename.apk"
 
 # User Guide
 
-For detailed information on how to use the sample, please refer to ().
+For detailed information on how to use the sample, please refer to the [documentation page](https://developer.picoxr.com/document/unity/ar-foundation-for-pico-unity-integration-sdk/).
 LICENSE This project is licensed under (./License.md).
